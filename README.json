@@ -1,0 +1,1117 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audacity",
+          "description": "Free, open source, cross-platform software for recording and editing sounds. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:41:02Z",
+            "owner": "audacity",
+            "repo": "audacity",
+            "stars": 17560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMMS",
+          "description": "Free cross-platform music production software. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T16:37:00Z",
+            "owner": "LMMS",
+            "repo": "lmms",
+            "stars": 10235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ardour",
+          "description": "Free, open source audio workstation for recording, editing and Mixing. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:55:02Z",
+            "owner": "Ardour",
+            "repo": "ardour",
+            "stars": 5174
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "restic",
+          "description": "Fast, secure, efficient backup program. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T20:25:16Z",
+            "owner": "restic",
+            "repo": "restic",
+            "stars": 35483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bup",
+          "description": "Efficient backup system, provide fast incremental saves and global deduplication. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T21:31:08Z",
+            "owner": "bup",
+            "repo": "bup",
+            "stars": 7339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backup",
+          "description": "Powerful backup tool distributed using RubyGems. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-03T12:44:26Z",
+            "owner": "backup",
+            "repo": "backup",
+            "stars": 4861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back In Time",
+          "description": "Simple backup solution. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:40:07Z",
+            "owner": "bit-team",
+            "repo": "backintime",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackupPC",
+          "description": "High-performance, enterprise-grade system for backing up to a server's disk. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-05-31T11:48:27Z",
+            "owner": "backuppc",
+            "repo": "backuppc",
+            "stars": 1622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attic",
+          "description": "Efficient and secure way to backup data. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-13T16:02:58Z",
+            "owner": "jborg",
+            "repo": "attic",
+            "stars": 1099
+          }
+        }
+      ],
+      "title": "Backup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "Free, open source, powerful and runs everywhere. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:09:50Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neovim",
+          "description": "Vim-fork focused on extensibility and usability. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T03:52:28Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": "Hackable text editor for the 21st Century. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T10:49:48Z",
+            "owner": "atom",
+            "repo": "atom",
+            "stars": 60797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": "Greatly improved version of the good old UNIX editor Vi. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-12T20:24:13Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brackets",
+          "description": "Modern, open source text editor that understands web design. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-12T08:19:24Z",
+            "owner": "adobe",
+            "repo": "brackets",
+            "stars": 33014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oni",
+          "description": "Modern Modal Editing - powered by Neovim. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-04-01T15:27:11Z",
+            "owner": "onivim",
+            "repo": "oni",
+            "stars": 11252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kakoune",
+          "description": "Modal editor with multi selection and fewer keystroke 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:11:09Z",
+            "owner": "mawww",
+            "repo": "kakoune",
+            "stars": 11021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oni2",
+          "description": "Native, lightweight modal code editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2022-08-17T20:11:55Z",
+            "owner": "onivim",
+            "repo": "oni2",
+            "stars": 7845
+          }
+        }
+      ],
+      "title": "Code Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DBeaver",
+          "description": "Free universal database tool and SQL client. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:40:07Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 51436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CockroachDB",
+          "description": "CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:28:36Z",
+            "owner": "cockroachdb",
+            "repo": "cockroach",
+            "stars": 32384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB Browser for SQLite",
+          "description": "High quality, visual, open source tool with SQLite. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T00:29:56Z",
+            "owner": "sqlitebrowser",
+            "repo": "sqlitebrowser",
+            "stars": 24433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gun",
+          "description": "Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T11:38:47Z",
+            "owner": "amark",
+            "repo": "gun",
+            "stars": 19109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postbird",
+          "description": "Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-30T21:50:07Z",
+            "owner": "Paxa",
+            "repo": "postbird",
+            "stars": 1635
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Krita",
+          "description": "Open source professional software and free digital painting. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:46:00Z",
+            "owner": "KDE",
+            "repo": "krita",
+            "stars": 10197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIMP",
+          "description": "Free & Open Source Image Editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:56:26Z",
+            "owner": "GNOME",
+            "repo": "gimp",
+            "stars": 6351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinta",
+          "description": "Free, open source program for drawing and image editing. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T23:25:37Z",
+            "owner": "PintaProject",
+            "repo": "Pinta",
+            "stars": 3871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inkscape",
+          "description": "Professional vector graphics editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-03T20:52:00Z",
+            "owner": "inkscape",
+            "repo": "inkscape",
+            "stars": 3781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyPaint",
+          "description": "Fast and dead-simple painting app for artists. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T09:10:40Z",
+            "owner": "mypaint",
+            "repo": "mypaint",
+            "stars": 2960
+          }
+        }
+      ],
+      "title": "Image Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ghostwriter",
+          "description": "Cross-platform, aesthetic, distraction-free Markdown editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:06:44Z",
+            "owner": "KDE",
+            "repo": "ghostwriter",
+            "stars": 4956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moeditor",
+          "description": "Your all-purpose Markdown editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-07T01:08:32Z",
+            "owner": "Moeditor",
+            "repo": "Moeditor",
+            "stars": 4110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReText",
+          "description": "Simple but powerful editor for Markdown and reStructuredText. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T20:08:58Z",
+            "owner": "retext-project",
+            "repo": "retext",
+            "stars": 2052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remarkable",
+          "description": "Open source, lightweight and powerful Markdown editor. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-22T11:59:10Z",
+            "owner": "jamiemcg",
+            "repo": "Remarkable",
+            "stars": 2035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haroopad",
+          "description": "The next document processor based on Markdown. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-04T11:45:22Z",
+            "owner": "rhiokim",
+            "repo": "haroopad",
+            "stars": 1678
+          }
+        }
+      ],
+      "title": "Markdown Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cmus",
+          "description": "Small, fast and powerful console music player for Unix-like operating systems. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:05:38Z",
+            "owner": "cmus",
+            "repo": "cmus",
+            "stars": 6204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clementine",
+          "description": "Cross-platform music player and library organizer forked from Amarok 1.4. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:33:11Z",
+            "owner": "clementine-player",
+            "repo": "Clementine",
+            "stars": 4240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocp",
+          "description": "Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:59:31Z",
+            "owner": "mywave82",
+            "repo": "opencubicplayer",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythmbox",
+          "description": "Music playing application for GNOME. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T07:53:02Z",
+            "owner": "GNOME",
+            "repo": "rhythmbox",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amarok",
+          "description": "Powerful music player for Linux with an intuitive interface. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:00:46Z",
+            "owner": "KDE",
+            "repo": "amarok",
+            "stars": 214
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Boostnote",
+          "description": "Intuitive and stylish note taking tool for developers. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-19T08:46:06Z",
+            "owner": "BoostIO",
+            "repo": "BoostNote-Legacy",
+            "stars": 16899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laverna",
+          "description": "Keep your notes private. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-30T22:18:41Z",
+            "owner": "Laverna",
+            "repo": "laverna",
+            "stars": 9181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplenote",
+          "description": "Light, clean and free. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T19:30:46Z",
+            "owner": "Automattic",
+            "repo": "simplenote-electron",
+            "stars": 5256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tagspaces",
+          "description": "Offline, open source and data manager. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T20:26:32Z",
+            "owner": "tagspaces",
+            "repo": "tagspaces",
+            "stars": 5231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turtl",
+          "description": "Secure and collaborative notebook. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-22T05:32:41Z",
+            "owner": "turtl",
+            "repo": "desktop",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qnote",
+          "description": "Minimal frameless notepad with Markdown, PDF export via Typst, OCR, and version history. Built with Tauri 2. Available on AUR. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T17:28:33Z",
+            "owner": "Omibranch",
+            "repo": "qnote",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notes",
+          "description": "GPG Encrypted Notes/Notebook manager for BSD/Linux👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-28T18:21:33Z",
+            "owner": "Standard-Unix-Notes",
+            "repo": "unix-notes",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Notes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fzf command-line fuzzy finder",
+          "description": "General-purpose command-line fuzzy finder that makes searching in history way easier. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "Cross-platform, GPU-accelerated terminal emulator. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tmux",
+          "description": "Tmux is a terminal multiplexer, like screen, but much better. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper",
+          "description": "Terminal built on web technologies. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T11:03:02Z",
+            "owner": "vercel",
+            "repo": "hyper",
+            "stars": 44691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kitty",
+          "description": "Fast, feature-rich, cross-platform, GPU based terminal. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:07:46Z",
+            "owner": "kovidgoyal",
+            "repo": "kitty",
+            "stars": 34382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upterm",
+          "description": "Terminal emulator for the 21st century. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-05-20T17:42:14Z",
+            "owner": "railsware",
+            "repo": "upterm",
+            "stars": 19071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilix",
+          "description": "Tiling terminal emulator using GTK+ 3. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-07-01T19:01:40Z",
+            "owner": "gnunn1",
+            "repo": "tilix",
+            "stars": 5711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termite",
+          "description": "A keyboard-centric VTE-based terminal. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-05-07T11:46:48Z",
+            "owner": "thestinger",
+            "repo": "termite",
+            "stars": 2707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminator",
+          "description": "Multiple terminals in one window. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T01:51:36Z",
+            "owner": "gnome-terminator",
+            "repo": "terminator",
+            "stars": 2638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilda",
+          "description": "Easy to configure the hotkeys and change the appearance. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-10T14:55:14Z",
+            "owner": "lanoxx",
+            "repo": "tilda",
+            "stars": 1340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certificate Ripper",
+          "description": "A CLI tool to extract server certificates from a URL. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T04:17:38Z",
+            "owner": "Hakky54",
+            "repo": "certificate-ripper",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konsole",
+          "description": "Terminal emulator for the K Desktop Environment. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:26:09Z",
+            "owner": "KDE",
+            "repo": "konsole",
+            "stars": 690
+          }
+        }
+      ],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenTypeless",
+          "description": "Cross-platform AI voice typing app that turns speech into polished text in any app. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T06:52:51Z",
+            "owner": "tover0314-w",
+            "repo": "opentypeless",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossMacro",
+          "description": "Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T21:52:31Z",
+            "owner": "alper-han",
+            "repo": "CrossMacro",
+            "stars": 373
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ungit",
+          "description": "Clean and intuitive UI, running on the web. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T05:38:12Z",
+            "owner": "FredrikNoren",
+            "repo": "ungit",
+            "stars": 10594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Extensions",
+          "description": "Standalone UI tool for managing git repositories. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T20:18:24Z",
+            "owner": "gitextensions",
+            "repo": "gitextensions",
+            "stars": 8520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Cola",
+          "description": "Powerful Git GUI with a slick and intuitive user interface. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T20:01:47Z",
+            "owner": "git-cola",
+            "repo": "git-cola",
+            "stars": 2558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitAhead",
+          "description": "Graphical Git client designed to help you understand and manage your source code history. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-15T21:32:33Z",
+            "owner": "gitahead",
+            "repo": "gitahead",
+            "stars": 1941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeReview",
+          "description": "Git GUI tool to perform code review. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T13:47:51Z",
+            "owner": "FabriceSalvaire",
+            "repo": "CodeReview",
+            "stars": 420
+          }
+        }
+      ],
+      "title": "Version Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OBS Studio",
+          "description": "Free and open source software for video recording and live streaming. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T00:39:00Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 74919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpv",
+          "description": "Free, open source, and cross-platform media player. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T04:39:39Z",
+            "owner": "mpv-player",
+            "repo": "mpv",
+            "stars": 36509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kodi",
+          "description": "Free and open source media player application. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:11:25Z",
+            "owner": "xbmc",
+            "repo": "xbmc",
+            "stars": 21091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLC",
+          "description": "Free and open source cross-platform multimedia player and framework. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T07:12:24Z",
+            "owner": "videolan",
+            "repo": "vlc",
+            "stars": 19302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleScreenRecorder",
+          "description": "Free and open source screen recording is easy to do. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T16:49:13Z",
+            "owner": "MaartenBaert",
+            "repo": "ssr",
+            "stars": 2879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miro",
+          "description": "Beautiful, open-source music and video player that lets you break free! 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-03T14:11:23Z",
+            "owner": "pculture",
+            "repo": "miro",
+            "stars": 246
+          }
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vagrant",
+          "description": "Tool for building and distributing development environments. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T08:01:11Z",
+            "owner": "hashicorp",
+            "repo": "vagrant",
+            "stars": 27201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QEMU",
+          "description": "Generic and open source machine emulator and virtualizer. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:48:30Z",
+            "owner": "qemu",
+            "repo": "qemu",
+            "stars": 13560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Machine",
+          "description": "Machine management for a container-centric world. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-02-13T19:27:42Z",
+            "owner": "docker-archive-public",
+            "repo": "docker.machine",
+            "stars": 6611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Machine Manager",
+          "description": "Graphical tool for managing virtual machines via libvirt. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:44:09Z",
+            "owner": "virt-manager",
+            "repo": "virt-manager",
+            "stars": 3229
+          }
+        }
+      ],
+      "title": "Virtualization"
+    },
+    {
+      "description": "To the extent possible under law, Cuong Nguyen has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:09.990Z",
+    "original_repository": "cuongtk8/awesome-linux-apps",
+    "original_repository_sha": "f952acafeb480d3895b507c0c1aec11868ad1942",
+    "enhanced_repository": "enhansome/enhansome-linux-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Linux Apps with stars"
+  }
+}
