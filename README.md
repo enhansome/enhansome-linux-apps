@@ -27,9 +27,9 @@
 
 ## Audio
 
-* [Audacity](https://github.com/audacity/audacity) ⭐ 17,619 | 🐛 1,660 | 🌐 C++ | 📅 2026-08-24 - Free, open source, cross-platform software for recording and editing sounds. 👏
-* [LMMS](https://github.com/LMMS/lmms) ⭐ 10,285 | 🐛 1,447 | 🌐 C++ | 📅 2026-08-25 - Free cross-platform music production software. 👏
-* [Ardour](https://github.com/Ardour/ardour) ⭐ 5,212 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 - Free, open source audio workstation for recording, editing and Mixing. 👏
+* [Audacity](https://github.com/audacity/audacity) ⭐ 17,634 | 🐛 1,665 | 🌐 C++ | 📅 2026-08-26 - Free, open source, cross-platform software for recording and editing sounds. 👏
+* [LMMS](https://github.com/LMMS/lmms) ⭐ 10,292 | 🐛 1,449 | 🌐 C++ | 📅 2026-08-25 - Free cross-platform music production software. 👏
+* [Ardour](https://github.com/Ardour/ardour) ⭐ 5,223 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 - Free, open source audio workstation for recording, editing and Mixing. 👏
 * [Amarok](https://amarok.kde.org/en) - A cross-platform and opensource audio player. 👏
 * [Audacious](https://audacious-media-player.org/) Free, open souce, audio player with low resource use. 👏
 * [Clementine](https://www.clementine-player.org/) -  A cross-platform feature-rich music player.
@@ -38,7 +38,7 @@
 
 ## Backup
 
-* [restic](https://github.com/restic/restic) ⭐ 35,715 | 🐛 577 | 🌐 Go | 📅 2026-08-01 - Fast, secure, efficient backup program. 👏
+* [restic](https://github.com/restic/restic) ⭐ 35,740 | 🐛 579 | 🌐 Go | 📅 2026-08-01 - Fast, secure, efficient backup program. 👏
 * [bup](https://github.com/bup/bup) ⭐ 7,341 | 🐛 17 | 🌐 Python | 📅 2026-08-22 - Efficient backup system, provide fast incremental saves and global deduplication. 👏
 * [backup](https://github.com/backup/backup) ⭐ 4,858 | 🐛 6 | 🌐 Ruby | 📅 2024-07-03 - Powerful backup tool distributed using RubyGems. 👏
 * [Back In Time](https://github.com/bit-team/backintime) ⭐ 2,654 | 🐛 146 | 🌐 Python | 📅 2026-08-17 - Simple backup solution. 👏
@@ -52,7 +52,7 @@
 
 * [Brave](https://brave.com/) - Secure, fast and private web browser with Adblocker.
 * [Chrome](https://www.google.com/chrome/) - Fast, simple and secure browser by Google.
-* [Chromium](https://github.com/chromium/chromium) ⭐ 24,614 | 🐛 28 | 📅 2026-08-25 - Open source, safer, faster and more stable way for all Internet users. 👏
+* [Chromium](https://github.com/chromium/chromium) ⭐ 24,625 | 🐛 28 | 📅 2026-08-26 - Open source, safer, faster and more stable way for all Internet users. 👏
 * [Edge](https://www.microsoftedgeinsider.com/en-us/download?platform=linux-deb) - Fast and secure browser by Microsoft.
 * [Firefox](https://www.mozilla.org/en-US/firefox/) - Fast, lightweight and powerfully private web browser.
 * [Midori](https://www.midori-browser.org/) - Lightweight, fast and free web browser.
@@ -90,23 +90,23 @@
 
 ## Code Editors
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,591 | 🐛 20,103 | 🌐 TypeScript | 📅 2026-08-25 - Free, open source, powerful and runs everywhere. 👏
-* [neovim](https://github.com/neovim/neovim) ⭐ 101,958 | 🐛 1,864 | 🌐 Vim Script | 📅 2026-08-25 - Vim-fork focused on extensibility and usability. 👏
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,620 | 🐛 20,149 | 🌐 TypeScript | 📅 2026-08-26 - Free, open source, powerful and runs everywhere. 👏
+* [neovim](https://github.com/neovim/neovim) ⭐ 101,975 | 🐛 1,866 | 🌐 Vim Script | 📅 2026-08-26 - Vim-fork focused on extensibility and usability. 👏
 * [Atom](https://github.com/atom/atom) ⚠️ Archived - Hackable text editor for the 21st Century. 👏
-* [Vim](https://github.com/vim/vim) ⭐ 40,796 | 🐛 1,632 | 🌐 Vim Script | 📅 2026-08-23 - Greatly improved version of the good old UNIX editor Vi. 👏
+* [Vim](https://github.com/vim/vim) ⭐ 40,803 | 🐛 1,627 | 🌐 Vim Script | 📅 2026-08-26 - Greatly improved version of the good old UNIX editor Vi. 👏
 * [Brackets](https://github.com/adobe/brackets) ⚠️ Archived - Modern, open source text editor that understands web design. 👏
 * [Oni](https://github.com/onivim/oni) ⚠️ Archived - Modern Modal Editing - powered by Neovim. 👏
-* [Kakoune](https://github.com/mawww/kakoune) ⭐ 11,032 | 🐛 917 | 🌐 C++ | 📅 2026-08-19 - Modal editor with multi selection and fewer keystroke 👏
-* [Oni2](https://github.com/onivim/oni2) ⭐ 7,842 | 🐛 547 | 🌐 Reason | 📅 2022-08-17 - Native, lightweight modal code editor. 👏
+* [Kakoune](https://github.com/mawww/kakoune) ⭐ 11,033 | 🐛 919 | 🌐 C++ | 📅 2026-08-19 - Modal editor with multi selection and fewer keystroke 👏
+* [Oni2](https://github.com/onivim/oni2) ⭐ 7,843 | 🐛 547 | 🌐 Reason | 📅 2022-08-17 - Native, lightweight modal code editor. 👏
 * [BlueFish](http://bluefish.openoffice.nl/index.html) - Powerful editor targeted towards programmers and web developers.
 * [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 * [Zed](https://zed.dev/) - Fast, modern & open source code editor with focus on performance. 👏
 
 ## Databases
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,534 | 🐛 3,341 | 🌐 Java | 📅 2026-08-25 - Free universal database tool and SQL client. 👏
-* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,415 | 🐛 8,242 | 🌐 Go | 📅 2026-08-07 - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
-* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,518 | 🐛 841 | 🌐 C++ | 📅 2026-08-22 - High quality, visual, open source tool with SQLite. 👏
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,552 | 🐛 3,354 | 🌐 Java | 📅 2026-08-26 - Free universal database tool and SQL client. 👏
+* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,415 | 🐛 8,313 | 🌐 Go | 📅 2026-08-07 - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
+* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,527 | 🐛 841 | 🌐 C++ | 📅 2026-08-26 - High quality, visual, open source tool with SQLite. 👏
 * [Gun](https://github.com/amark/gun) ⭐ 19,126 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 - Gun is an open-source and realtime, decentralized, offline-first, graph database engine written in JavaScript. 👏
 * [Postbird](https://github.com/Paxa/postbird) ⭐ 1,636 | 🐛 53 | 🌐 JavaScript | 📅 2025-06-30 - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 * [Mongodb Compass](https://www.mongodb.com/products/compass) - Nice GUI for MongoDB with dark mode included.
@@ -139,10 +139,10 @@
 
 ## Image Editors
 
-* [Krita](https://github.com/KDE/krita) ⭐ 10,263 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 - Open source professional software and free digital painting. 👏
-* [GIMP](https://github.com/GNOME/gimp) ⭐ 6,375 | 🐛 0 | 🌐 C | 📅 2026-08-25 - Free & Open Source Image Editor. 👏
-* [Pinta](https://github.com/PintaProject/Pinta) ⭐ 3,955 | 🐛 223 | 🌐 C# | 📅 2026-08-24 - Free, open source program for drawing and image editing. 👏
-* [Inkscape](https://github.com/inkscape/inkscape) ⭐ 3,824 | 🐛 1 | 📅 2022-03-03 - Professional vector graphics editor. 👏
+* [Krita](https://github.com/KDE/krita) ⭐ 10,268 | 🐛 0 | 🌐 C++ | 📅 2026-08-26 - Open source professional software and free digital painting. 👏
+* [GIMP](https://github.com/GNOME/gimp) ⭐ 6,377 | 🐛 0 | 🌐 C | 📅 2026-08-26 - Free & Open Source Image Editor. 👏
+* [Pinta](https://github.com/PintaProject/Pinta) ⭐ 3,974 | 🐛 226 | 🌐 C# | 📅 2026-08-24 - Free, open source program for drawing and image editing. 👏
+* [Inkscape](https://github.com/inkscape/inkscape) ⭐ 3,832 | 🐛 1 | 📅 2022-03-03 - Professional vector graphics editor. 👏
 * [MyPaint](https://github.com/mypaint/mypaint) ⭐ 2,963 | 🐛 225 | 🌐 Python | 📅 2026-06-16 - Fast and dead-simple painting app for artists. 👏
 * [DigiKam](https://www.digikam.org/) - Free & Open-source digital photo management application. 👏
 * [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
@@ -155,7 +155,7 @@
 ## Mail
 
 * [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
-* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,756 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-25 - Free, open source, beautiful and fast mail client. 👏
+* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,762 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-26 - Free, open source, beautiful and fast mail client. 👏
 * [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
 
 ## Markdown Editors
@@ -170,9 +170,9 @@
 
 ## Music
 
-* [cmus](https://github.com/cmus/cmus) ⭐ 6,222 | 🐛 217 | 🌐 C | 📅 2026-08-12 - Small, fast and powerful console music player for Unix-like operating systems. 👏
-* [Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,241 | 🐛 2,439 | 🌐 C++ | 📅 2026-08-25 - Cross-platform music player and library organizer forked from Amarok 1.4. 👏
-* [ocp](https://github.com/mywave82/opencubicplayer) ⭐ 437 | 🐛 16 | 🌐 C | 📅 2026-08-24 - Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene. 👏
+* [cmus](https://github.com/cmus/cmus) ⭐ 6,221 | 🐛 218 | 🌐 C | 📅 2026-08-12 - Small, fast and powerful console music player for Unix-like operating systems. 👏
+* [Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,242 | 🐛 2,438 | 🌐 C++ | 📅 2026-08-26 - Cross-platform music player and library organizer forked from Amarok 1.4. 👏
+* [ocp](https://github.com/mywave82/opencubicplayer) ⭐ 438 | 🐛 16 | 🌐 C | 📅 2026-08-24 - Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene. 👏
 * [Rhythmbox](https://github.com/GNOME/rhythmbox) ⭐ 244 | 🐛 0 | 🌐 C | 📅 2026-08-24 - Music playing application for GNOME. 👏
 * [Amarok](https://github.com/KDE/amarok) ⭐ 214 | 🐛 0 | 🌐 C++ | 📅 2026-08-18 - Powerful music player for Linux with an intuitive interface. 👏
 * [Audacious](https://audacious-media-player.org/) - Open source audio player that is low resource and has a minimal feature interface. 👏
@@ -182,8 +182,8 @@
 
 * [Boostnote](https://github.com/BoostIO/Boostnote) ⚠️ Archived - Intuitive and stylish note taking tool for developers. 👏
 * [Laverna](https://github.com/Laverna/laverna) ⭐ 9,178 | 🐛 447 | 🌐 JavaScript | 📅 2021-05-30 - Keep your notes private. 👏
-* [Simplenote](https://github.com/Automattic/simplenote-electron) ⭐ 5,265 | 🐛 276 | 🌐 TypeScript | 📅 2026-08-17 - Light, clean and free. 👏
-* [Tagspaces](https://github.com/tagspaces/tagspaces) ⭐ 5,255 | 🐛 83 | 🌐 TypeScript | 📅 2026-07-24 - Offline, open source and data manager. 👏
+* [Simplenote](https://github.com/Automattic/simplenote-electron) ⭐ 5,266 | 🐛 275 | 🌐 TypeScript | 📅 2026-08-17 - Light, clean and free. 👏
+* [Tagspaces](https://github.com/tagspaces/tagspaces) ⭐ 5,256 | 🐛 83 | 🌐 TypeScript | 📅 2026-07-24 - Offline, open source and data manager. 👏
 * [Turtl](https://github.com/turtl/desktop) ⭐ 731 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-22 - Secure and collaborative notebook. 👏
 * [qnote](https://github.com/Omibranch/qnote) ⚠️ Archived - Minimal frameless notepad with Markdown, PDF export via Typst, OCR, and version history. Built with Tauri 2. Available on AUR. 👏
 * [notes](https://github.com/Standard-Unix-Notes/unix-notes) ⭐ 12 | 🐛 1 | 🌐 Shell | 📅 2022-04-28 - GPG Encrypted Notes/Notebook manager for BSD/Linux👏
@@ -198,31 +198,31 @@
 
 ## Terminal
 
-* [Fzf command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 82,649 | 🐛 327 | 🌐 Go | 📅 2026-08-24 - General-purpose command-line fuzzy finder that makes searching in history way easier. 👏
-* [Alacritty](https://github.com/jwilm/alacritty) ⭐ 65,503 | 🐛 339 | 🌐 Rust | 📅 2026-08-17 - Cross-platform, GPU-accelerated terminal emulator. 👏
-* [Tmux](https://github.com/tmux/tmux/) ⭐ 48,814 | 🐛 31 | 🌐 C | 📅 2026-08-25 - Tmux is a terminal multiplexer, like screen, but much better. 👏
-* [Hyper](https://github.com/zeit/hyper) ⭐ 44,703 | 🐛 1,045 | 🌐 TypeScript | 📅 2026-08-21 - Terminal built on web technologies. 👏
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,593 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Fast, feature-rich, cross-platform, GPU based terminal. 👏
+* [Fzf command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 82,661 | 🐛 326 | 🌐 Go | 📅 2026-08-26 - General-purpose command-line fuzzy finder that makes searching in history way easier. 👏
+* [Alacritty](https://github.com/jwilm/alacritty) ⭐ 65,518 | 🐛 339 | 🌐 Rust | 📅 2026-08-26 - Cross-platform, GPU-accelerated terminal emulator. 👏
+* [Tmux](https://github.com/tmux/tmux/) ⭐ 48,835 | 🐛 32 | 🌐 C | 📅 2026-08-25 - Tmux is a terminal multiplexer, like screen, but much better. 👏
+* [Hyper](https://github.com/zeit/hyper) ⭐ 44,706 | 🐛 1,046 | 🌐 TypeScript | 📅 2026-08-21 - Terminal built on web technologies. 👏
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,611 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - Fast, feature-rich, cross-platform, GPU based terminal. 👏
 * [Upterm](https://github.com/railsware/upterm) ⚠️ Archived - Terminal emulator for the 21st century. 👏
-* [Tilix](https://github.com/gnunn1/tilix/) ⭐ 5,713 | 🐛 455 | 🌐 D | 📅 2026-07-01 - Tiling terminal emulator using GTK+ 3. 👏
+* [Tilix](https://github.com/gnunn1/tilix/) ⭐ 5,715 | 🐛 455 | 🌐 D | 📅 2026-07-01 - Tiling terminal emulator using GTK+ 3. 👏
 * [Termite](https://github.com/thestinger/termite) ⚠️ Archived - A keyboard-centric VTE-based terminal. 👏
 * [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,644 | 🐛 177 | 🌐 Python | 📅 2026-08-09 - Multiple terminals in one window. 👏
 * [Tilda](https://github.com/lanoxx/tilda) ⭐ 1,342 | 🐛 157 | 🌐 C | 📅 2026-01-10 - Easy to configure the hotkeys and change the appearance. 👏
 * [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 922 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - A CLI tool to extract server certificates from a URL. 👏
-* [Konsole](https://github.com/KDE/konsole) ⭐ 692 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 - Terminal emulator for the K Desktop Environment. 👏
+* [Konsole](https://github.com/KDE/konsole) ⭐ 694 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 - Terminal emulator for the K Desktop Environment. 👏
 * [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
 
 ## Utilities
 
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) ⭐ 474 | 🐛 37 | 🌐 Rust | 📅 2026-08-25 - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
-* [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 384 | 🐛 2 | 🌐 C# | 📅 2026-08-25 - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) ⭐ 476 | 🐛 37 | 🌐 Rust | 📅 2026-08-25 - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
+* [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 384 | 🐛 3 | 🌐 C# | 📅 2026-08-26 - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 
 ## Version Control
 
-* [ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,599 | 🐛 233 | 🌐 JavaScript | 📅 2026-08-05 - Clean and intuitive UI, running on the web. 👏
-* [Git Extensions](https://github.com/gitextensions/gitextensions) ⭐ 8,537 | 🐛 595 | 🌐 C# | 📅 2026-08-22 - Standalone UI tool for managing git repositories. 👏
-* [Git Cola](https://github.com/git-cola/git-cola) ⭐ 2,564 | 🐛 5 | 🌐 Python | 📅 2026-08-21 - Powerful Git GUI with a slick and intuitive user interface. 👏
-* [GitAhead](https://github.com/gitahead/gitahead) ⭐ 1,946 | 🐛 293 | 🌐 C++ | 📅 2026-08-14 - Graphical Git client designed to help you understand and manage your source code history. 👏
+* [ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,600 | 🐛 233 | 🌐 JavaScript | 📅 2026-08-05 - Clean and intuitive UI, running on the web. 👏
+* [Git Extensions](https://github.com/gitextensions/gitextensions) ⭐ 8,539 | 🐛 595 | 🌐 C# | 📅 2026-08-22 - Standalone UI tool for managing git repositories. 👏
+* [Git Cola](https://github.com/git-cola/git-cola) ⭐ 2,565 | 🐛 5 | 🌐 Python | 📅 2026-08-21 - Powerful Git GUI with a slick and intuitive user interface. 👏
+* [GitAhead](https://github.com/gitahead/gitahead) ⭐ 1,947 | 🐛 293 | 🌐 C++ | 📅 2026-08-14 - Graphical Git client designed to help you understand and manage your source code history. 👏
 * [CodeReview](https://github.com/FabriceSalvaire/CodeReview) ⭐ 421 | 🐛 27 | 🌐 Python | 📅 2026-03-06 - Git GUI tool to perform code review. 👏
 * [Aurees](https://aurees.com/) - Easy, fast and free.
 * [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
@@ -233,10 +233,10 @@
 
 ## Video
 
-* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 75,441 | 🐛 1,162 | 🌐 C | 📅 2026-08-25 - Free and open source software for video recording and live streaming. 👏
-* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,676 | 🐛 1,138 | 🌐 C | 📅 2026-08-23 - Free, open source, and cross-platform media player. 👏
-* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,136 | 🐛 463 | 🌐 C++ | 📅 2026-08-25 - Free and open source media player application. 👏
-* [VLC](https://github.com/videolan/vlc) ⭐ 19,427 | 🐛 2 | 🌐 C | 📅 2026-08-25 - Free and open source cross-platform multimedia player and framework. 👏
+* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 75,477 | 🐛 1,165 | 🌐 C | 📅 2026-08-25 - Free and open source software for video recording and live streaming. 👏
+* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,686 | 🐛 1,138 | 🌐 C | 📅 2026-08-26 - Free, open source, and cross-platform media player. 👏
+* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,138 | 🐛 468 | 🌐 C++ | 📅 2026-08-26 - Free and open source media player application. 👏
+* [VLC](https://github.com/videolan/vlc) ⭐ 19,438 | 🐛 2 | 🌐 C | 📅 2026-08-26 - Free and open source cross-platform multimedia player and framework. 👏
 * [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) ⭐ 2,881 | 🐛 526 | 🌐 C++ | 📅 2026-08-14 - Free and open source screen recording is easy to do. 👏
 * [Miro](https://github.com/pculture/miro) ⭐ 245 | 🐛 14 | 🌐 Python | 📅 2019-10-03 - Beautiful, open-source music and video player that lets you break free! 👏
 * [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player. 👏
@@ -244,10 +244,10 @@
 
 ## Virtualization
 
-* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,200 | 🐛 753 | 🌐 Ruby | 📅 2026-08-03 - Tool for building and distributing development environments. 👏
-* [QEMU](https://github.com/qemu/qemu) ⭐ 13,621 | 🐛 0 | 🌐 C | 📅 2026-08-25 - Generic and open source machine emulator and virtualizer. 👏
+* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,202 | 🐛 753 | 🌐 Ruby | 📅 2026-08-03 - Tool for building and distributing development environments. 👏
+* [QEMU](https://github.com/qemu/qemu) ⭐ 13,630 | 🐛 0 | 🌐 C | 📅 2026-08-26 - Generic and open source machine emulator and virtualizer. 👏
 * [Docker Machine](https://github.com/docker/machine) ⚠️ Archived - Machine management for a container-centric world. 👏
-* [Virtual Machine Manager](https://github.com/virt-manager/virt-manager) ⭐ 3,231 | 🐛 162 | 🌐 Python | 📅 2026-08-15 - Graphical tool for managing virtual machines via libvirt. 👏
+* [Virtual Machine Manager](https://github.com/virt-manager/virt-manager) ⭐ 3,233 | 🐛 162 | 🌐 Python | 📅 2026-08-15 - Graphical tool for managing virtual machines via libvirt. 👏
 * [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. 👏
 * [Gnome Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - Easy to view, access, and manage remote and virtual systems. 👏
 * [UCS Virtual Machine Manager](https://www.univention.com/products/ucs/functions/virtualization-uvmm/) - Linux VM management tool for Linux, which specializes in working with cloud VMs, clusters, and other enterprise-level virtual systems.
@@ -263,4 +263,4 @@ To the extent possible under law, [Cuong Nguyen](https://www.linkedin.com/in/cuo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
