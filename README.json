@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio Editor                                     ",
+            "homepage": "https://wiki.audacityteam.org/wiki/For_Developers",
             "id": 32921736,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:25:10Z",
+            "open_issues": 1676,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17650
+            "stars": 17653,
+            "topics": [
+              "audio",
+              "cross-platform",
+              "editor",
+              "gplv2",
+              "wxwidgets-applications"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform music production software",
+            "homepage": "https://lmms.io",
             "id": 15778896,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T10:21:20Z",
+            "open_issues": 1446,
             "owner": "LMMS",
             "repo": "lmms",
-            "stars": 10302
+            "stars": 10302,
+            "topics": [
+              "daw",
+              "hacktoberfest",
+              "midi",
+              "music",
+              "songs"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -42,12 +64,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of Ardour Source Code",
+            "homepage": "http://ardour.org",
             "id": 8757552,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T17:04:52Z",
+            "open_issues": 46,
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5237
+            "stars": 5238,
+            "topics": [
+              "audio",
+              "c-plus-plus",
+              "daw",
+              "jack",
+              "lv2",
+              "midi",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -64,12 +99,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, secure, efficient backup program",
+            "homepage": "https://restic.net",
             "id": 19205896,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-01T20:25:16Z",
+            "open_issues": 584,
             "owner": "restic",
             "repo": "restic",
-            "stars": 35763
+            "stars": 35763,
+            "topics": [
+              "backup",
+              "dedupe",
+              "deduplication",
+              "go",
+              "restic",
+              "secure-by-default"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -80,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+            "homepage": "https://bup.github.io/",
             "id": 5664897,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T20:11:42Z",
+            "open_issues": 17,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7340
+            "stars": 7340,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -96,12 +148,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy full stack backup operations on UNIX-like systems.",
+            "homepage": "http://backup.github.io/backup/v4/",
             "id": 323788,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-07-03T12:44:26Z",
+            "open_issues": 6,
             "owner": "backup",
             "repo": "backup",
-            "stars": 4858
+            "stars": 4858,
+            "topics": [
+              "backup",
+              "database",
+              "encryption",
+              "mongodb",
+              "mysql",
+              "postgresql",
+              "ruby",
+              "s3",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -112,12 +179,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new folder using rsync's hard link feature, saving storage space. Restoring is straightforward via file manager, command line or Back In Time itself.",
+            "homepage": "https://backintime.readthedocs.io",
             "id": 44059189,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T19:59:19Z",
+            "open_issues": 147,
             "owner": "bit-team",
             "repo": "backintime",
-            "stars": 2658
+            "stars": 2658,
+            "topics": [
+              "backintime",
+              "backup",
+              "backups",
+              "hardlinking",
+              "hardlinks",
+              "linux",
+              "python",
+              "qt",
+              "rsync",
+              "translathon"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -128,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.",
+            "homepage": null,
             "id": 9079569,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-31T11:48:27Z",
+            "open_issues": 52,
             "owner": "backuppc",
             "repo": "backuppc",
-            "stars": 1624
+            "stars": 1624,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -144,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deduplicating backup program",
+            "homepage": null,
             "id": 11289812,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-13T16:02:58Z",
+            "open_issues": 195,
             "owner": "jborg",
             "repo": "attic",
-            "stars": 1099
+            "stars": 1099,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -166,12 +259,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code",
+            "homepage": "https://code.visualstudio.com",
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:04:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:48:39Z",
+            "open_issues": 20178,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189753
+            "stars": 189757,
+            "topics": [
+              "editor",
+              "electron",
+              "microsoft",
+              "typescript",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -182,12 +286,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim-fork focused on extensibility and usability",
+            "homepage": "https://neovim.io",
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-28T17:34:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:22:51Z",
+            "open_issues": 1867,
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101999
+            "stars": 102001,
+            "topics": [
+              "api",
+              "c",
+              "lua",
+              "neovim",
+              "nvim",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -198,12 +315,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":atom: The hackable text editor",
+            "homepage": "https://atom.io",
             "id": 3228505,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T10:49:48Z",
+            "open_issues": 992,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60768
+            "stars": 60767,
+            "topics": [
+              "atom",
+              "editor",
+              "electron",
+              "javascript",
+              "linux",
+              "macos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -214,12 +344,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Vim repository",
+            "homepage": "https://www.vim.org",
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-28T17:31:20Z",
+            "license": "Vim",
+            "last_commit": "2026-08-29T02:34:08Z",
+            "open_issues": 1636,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40818
+            "stars": 40818,
+            "topics": [
+              "c",
+              "cross-platform",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -230,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+            "homepage": "http://brackets.io",
             "id": 2935735,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-12T08:19:24Z",
+            "open_issues": 2774,
             "owner": "adobe",
             "repo": "brackets",
-            "stars": 33009
+            "stars": 33008,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -246,12 +391,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Oni: Modern Modal Editing - powered by Neovim",
+            "homepage": "https://www.onivim.io",
             "id": 73929422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-04-01T15:27:11Z",
+            "open_issues": 517,
             "owner": "onivim",
             "repo": "oni",
-            "stars": 11244
+            "stars": 11244,
+            "topics": [
+              "editing",
+              "editor",
+              "gui",
+              "ide",
+              "javascript",
+              "neovim",
+              "neovim-guis",
+              "oni",
+              "react",
+              "redux",
+              "rxjs",
+              "text-editor",
+              "typescript",
+              "ui",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -262,12 +428,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mawww's experiment for a better code editor",
+            "homepage": "http://kakoune.org",
             "id": 2701888,
             "language": "C++",
+            "license": "Unlicense",
             "last_commit": "2026-08-19T07:32:53Z",
+            "open_issues": 920,
             "owner": "mawww",
             "repo": "kakoune",
-            "stars": 11036
+            "stars": 11036,
+            "topics": [
+              "c-plus-plus",
+              "console-application",
+              "kakoune",
+              "modal-editing",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -278,12 +456,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native, lightweight modal code editor",
+            "homepage": "https://v2.onivim.io",
             "id": 163862700,
             "language": "Reason",
+            "license": "MIT",
             "last_commit": "2022-08-17T20:11:55Z",
+            "open_issues": 547,
             "owner": "onivim",
             "repo": "oni2",
-            "stars": 7843
+            "stars": 7843,
+            "topics": [
+              "editor",
+              "linux",
+              "macos",
+              "ocaml",
+              "oni",
+              "reasonml",
+              "revery",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -300,12 +492,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free universal database tool and SQL client",
+            "homepage": "https://dbeaver.io",
             "id": 44662669,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:35:23Z",
+            "open_issues": 3364,
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 51575
+            "stars": 51577,
+            "topics": [
+              "ai",
+              "database",
+              "databricks",
+              "db2",
+              "dbeaver",
+              "erd",
+              "gui",
+              "java",
+              "jdbc",
+              "mysql",
+              "nosql",
+              "oracle",
+              "postgresql",
+              "redshift",
+              "snowflake",
+              "sql",
+              "sqlite",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -316,12 +532,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+            "homepage": "https://www.cockroachlabs.com",
             "id": 16563587,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:11:56Z",
+            "open_issues": 8418,
             "owner": "cockroachdb",
             "repo": "cockroach",
-            "stars": 32430
+            "stars": 32429,
+            "topics": [
+              "cockroachdb",
+              "database",
+              "distributed-database",
+              "go",
+              "hacktoberfest",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -332,12 +560,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at: ",
+            "homepage": "https://sqlitebrowser.org",
             "id": 19416551,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T13:32:05Z",
+            "open_issues": 843,
             "owner": "sqlitebrowser",
             "repo": "sqlitebrowser",
-            "stars": 24538
+            "stars": 24539,
+            "topics": [
+              "c-plus-plus",
+              "cross-platform",
+              "database",
+              "database-browser",
+              "database-gui",
+              "sqlite",
+              "sqlitebrowser"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -348,12 +589,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source cybersecurity protocol for syncing decentralized graph data.",
+            "homepage": "https://gun.eco/docs",
             "id": 22475123,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T11:38:47Z",
+            "open_issues": 321,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19127
+            "stars": 19127,
+            "topics": [
+              "artificial-intelligence",
+              "big-data",
+              "blockchain",
+              "crdt",
+              "crypto",
+              "cryptography",
+              "dapp",
+              "database",
+              "decentralized",
+              "dweb",
+              "encryption",
+              "end-to-end",
+              "graph",
+              "machine-learning",
+              "metaverse",
+              "offline-first",
+              "p2p",
+              "protocol",
+              "realtime",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -364,12 +631,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source PostgreSQL GUI client for macOS, Linux and Windows",
+            "homepage": null,
             "id": 14712750,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-30T21:50:07Z",
+            "open_issues": 53,
             "owner": "Paxa",
             "repo": "postbird",
-            "stars": 1637
+            "stars": 1637,
+            "topics": [
+              "desktop-app",
+              "electron-app",
+              "javascript",
+              "linux",
+              "macos",
+              "postgresql",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -386,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.",
+            "homepage": "https://invent.kde.org/graphics/krita",
             "id": 43975673,
             "language": "C++",
-            "last_commit": "2026-08-28T22:31:35Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:27:34Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "krita",
-            "stars": 10275
+            "stars": 10278,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -402,12 +687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gimp",
+            "homepage": "https://gitlab.gnome.org/GNOME/gimp",
             "id": 4537508,
             "language": "C",
-            "last_commit": "2026-08-28T23:45:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:55:44Z",
+            "open_issues": 0,
             "owner": "GNOME",
             "repo": "gimp",
-            "stars": 6381
+            "stars": 6382,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -418,12 +708,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple GTK Paint Program",
+            "homepage": "http://www.pinta-project.com/",
             "id": 2358713,
             "language": "C#",
-            "last_commit": "2026-08-24T21:54:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:39:01Z",
+            "open_issues": 224,
             "owner": "PintaProject",
             "repo": "Pinta",
-            "stars": 3987
+            "stars": 3987,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "drawing",
+              "gtk",
+              "gtk4",
+              "image-editor",
+              "painting",
+              "pinta"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -434,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌",
+            "homepage": "http://www.inkscape.org/",
             "id": 23163093,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-03T20:52:00Z",
+            "open_issues": 1,
             "owner": "inkscape",
             "repo": "inkscape",
-            "stars": 3838
+            "stars": 3838,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -450,12 +759,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.",
+            "homepage": "https://mypaint.app",
             "id": 20728281,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-16T09:10:40Z",
+            "open_issues": 225,
             "owner": "mypaint",
             "repo": "mypaint",
-            "stars": 2964
+            "stars": 2964,
+            "topics": [
+              "art",
+              "brushes",
+              "creative",
+              "distraction-free",
+              "drawing",
+              "graphics-tablet",
+              "infinite-scroll",
+              "libmypaint",
+              "mypaint",
+              "painting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -472,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text editor for Markdown",
+            "homepage": "https://invent.kde.org/office/ghostwriter",
             "id": 41199796,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T10:20:09Z",
+            "open_issues": 22,
             "owner": "KDE",
             "repo": "ghostwriter",
-            "stars": 4972
+            "stars": 4972,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -488,12 +819,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(discontinued) Your all-purpose markdown editor.",
+            "homepage": "https://moeditor.github.io",
             "id": 61847006,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-07T01:08:32Z",
+            "open_issues": 113,
             "owner": "Moeditor",
             "repo": "Moeditor",
-            "stars": 4109
+            "stars": 4108,
+            "topics": [
+              "electron",
+              "markdown",
+              "markdown-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -504,12 +844,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ReText: Simple but powerful editor for Markdown and reStructuredText",
+            "homepage": null,
             "id": 42403944,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-16T17:57:50Z",
+            "open_issues": 76,
             "owner": "retext-project",
             "repo": "retext",
-            "stars": 2053
+            "stars": 2053,
+            "topics": [
+              "editor",
+              "markdown",
+              "markdown-editor",
+              "markup-language",
+              "restructuredtext"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -520,12 +871,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io",
+            "homepage": null,
             "id": 60926468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-22T11:59:10Z",
+            "open_issues": 80,
             "owner": "jamiemcg",
             "repo": "Remarkable",
-            "stars": 2037
+            "stars": 2037,
+            "topics": [
+              "linux",
+              "live-preview",
+              "markdown",
+              "markdown-editor",
+              "syntax-highlighting",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -536,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haroopad - The Next Document processor based on Markdown",
+            "homepage": "http://pad.haroopress.com",
             "id": 8000907,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2018-12-04T11:45:22Z",
+            "open_issues": 224,
             "owner": "rhiokim",
             "repo": "haroopad",
-            "stars": 1670
+            "stars": 1670,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -558,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small, fast and powerful console music player for Unix-like operating systems.",
+            "homepage": "https://cmus.github.io/",
             "id": 7365136,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-12T19:05:38Z",
+            "open_issues": 219,
             "owner": "cmus",
             "repo": "cmus",
-            "stars": 6227
+            "stars": 6227,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -574,12 +947,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tangerine: Clementine Music Player",
+            "homepage": "https://www.clementine-player.org/",
             "id": 14979312,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T06:51:53Z",
+            "open_issues": 2438,
             "owner": "clementine-player",
             "repo": "Clementine",
-            "stars": 4242
+            "stars": 4242,
+            "topics": [
+              "c-plus-plus",
+              "linux",
+              "mac",
+              "music",
+              "qt",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -590,12 +975,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene",
+            "homepage": "https://stian.cubic.org/project-ocp.php",
             "id": 172585854,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T08:42:09Z",
+            "open_issues": 16,
             "owner": "mywave82",
             "repo": "opencubicplayer",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "6581",
+              "adplug",
+              "ay-3-8910",
+              "c",
+              "flac",
+              "hvl",
+              "impulsetracker",
+              "midi-player",
+              "mod",
+              "modulefiles",
+              "music",
+              "music-player",
+              "music-visualizer",
+              "ogg-vorbis",
+              "opl2",
+              "opl3",
+              "s3m",
+              "sid",
+              "timidity",
+              "ym2149"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -606,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/rhythmbox",
+            "homepage": "https://gitlab.gnome.org/GNOME/rhythmbox",
             "id": 4598588,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T18:02:22Z",
+            "open_issues": 0,
             "owner": "GNOME",
             "repo": "rhythmbox",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -622,12 +1038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful music player that lets you rediscover your music",
+            "homepage": "https://invent.kde.org/multimedia/amarok",
             "id": 42728662,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-18T01:47:55Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "amarok",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -644,12 +1065,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App",
+            "homepage": null,
             "id": 53266139,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-19T08:46:06Z",
+            "open_issues": 528,
             "owner": "BoostIO",
             "repo": "BoostNote-Legacy",
-            "stars": 16897
+            "stars": 16897,
+            "topics": [
+              "electron",
+              "linux",
+              "macos",
+              "open-source",
+              "react",
+              "stylus",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -660,12 +1094,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+            "homepage": "https://laverna.cc/index.html",
             "id": 16096681,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2021-05-30T22:18:41Z",
+            "open_issues": 447,
             "owner": "Laverna",
             "repo": "laverna",
-            "stars": 9178
+            "stars": 9178,
+            "topics": [
+              "laverna",
+              "note-taking",
+              "peer-to-peer",
+              "socket-io",
+              "webrtc",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -676,12 +1122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplenote for Web, Windows, and Linux",
+            "homepage": "https://app.simplenote.com",
             "id": 41199577,
             "language": "TypeScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T03:22:50Z",
+            "open_issues": 274,
             "owner": "Automattic",
             "repo": "simplenote-electron",
-            "stars": 5266
+            "stars": 5267,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -692,12 +1143,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TagSpaces is an offline, open source, document manager with tagging support",
+            "homepage": "https://www.tagspaces.org",
             "id": 6830846,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-24T20:26:32Z",
+            "open_issues": 84,
             "owner": "tagspaces",
             "repo": "tagspaces",
-            "stars": 5259
+            "stars": 5259,
+            "topics": [
+              "electron",
+              "javascript",
+              "note-taking",
+              "offline-first",
+              "open-source",
+              "self-hosting",
+              "tagspaces"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -708,12 +1172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turtl's desktop app",
+            "homepage": null,
             "id": 18167822,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T05:32:41Z",
+            "open_issues": 65,
             "owner": "turtl",
             "repo": "desktop",
-            "stars": 731
+            "stars": 731,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -724,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimal Tauri desktop note editor with Markdown, PDF export, and file history",
+            "homepage": null,
             "id": 1216904355,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T17:28:33Z",
+            "open_issues": 0,
             "owner": "Omibranch",
             "repo": "qnote",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -740,12 +1214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPG encrypted notebooks. ",
+            "homepage": null,
             "id": 374587135,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-28T18:21:33Z",
+            "open_issues": 1,
             "owner": "Standard-Unix-Notes",
             "repo": "unix-notes",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "gpg",
+              "gpg-encryption",
+              "notes",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -762,12 +1246,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82702
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -778,12 +1278,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform, OpenGL terminal emulator.",
+            "homepage": "https://alacritty.org",
             "id": 51980455,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T04:17:18Z",
+            "open_issues": 338,
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65543
+            "stars": 65544,
+            "topics": [
+              "bsd",
+              "gpu",
+              "linux",
+              "macos",
+              "opengl",
+              "rust",
+              "terminal",
+              "terminal-emulators",
+              "vte",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -794,12 +1310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tmux source code",
+            "homepage": null,
             "id": 36836475,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-08-28T10:46:45Z",
+            "open_issues": 33,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48883
+            "stars": 48889,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -810,12 +1331,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal built on web technologies",
+            "homepage": "https://hyper.is",
             "id": 62367558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T20:44:39Z",
+            "open_issues": 1046,
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44708
+            "stars": 44708,
+            "topics": [
+              "css",
+              "html",
+              "hyper",
+              "javascript",
+              "linux",
+              "macos",
+              "react",
+              "terminal",
+              "terminal-emulators"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -826,12 +1362,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
+            "homepage": "https://sw.kovidgoyal.net/kitty/",
             "id": 71056775,
             "language": "Python",
-            "last_commit": "2026-08-28T21:33:32Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:24:04Z",
+            "open_issues": 10,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34656
+            "stars": 34661,
+            "topics": [
+              "c",
+              "go",
+              "golang",
+              "golang-application",
+              "kitty",
+              "kitty-terminal",
+              "opengl",
+              "python",
+              "terminal",
+              "terminal-emulators",
+              "terminfo",
+              "vt100"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -842,12 +1396,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A terminal emulator for the 21st century.",
+            "homepage": null,
             "id": 32665718,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-05-20T17:42:14Z",
+            "open_issues": 220,
             "owner": "railsware",
             "repo": "upterm",
-            "stars": 19061
+            "stars": 19061,
+            "topics": [
+              "console",
+              "electron",
+              "pty",
+              "react",
+              "shell",
+              "terminal",
+              "terminal-emulators",
+              "terminals",
+              "tty",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -858,12 +1428,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiling terminal emulator for Linux using GTK+ 3",
+            "homepage": "https://gnunn1.github.io/tilix-web",
             "id": 48780523,
             "language": "D",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-01T19:01:40Z",
+            "open_issues": 455,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5715
+            "stars": 5715,
+            "topics": [
+              "dlang",
+              "gtk3",
+              "terminal",
+              "terminal-emulators",
+              "vte"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -874,12 +1455,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.",
+            "homepage": "https://github.com/alacritty/alacritty",
             "id": 4402279,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-05-07T11:46:48Z",
+            "open_issues": 1,
             "owner": "thestinger",
             "repo": "termite",
-            "stars": 2707
+            "stars": 2707,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -890,12 +1476,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "multiple GNOME terminals in one window",
+            "homepage": "https://gnome-terminator.org",
             "id": 252228727,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-09T01:51:36Z",
+            "open_issues": 179,
             "owner": "gnome-terminator",
             "repo": "terminator",
-            "stars": 2646
+            "stars": 2647,
+            "topics": [
+              "gnome",
+              "gtk",
+              "linux",
+              "terminal",
+              "terminal-emulators"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -906,12 +1503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gtk based drop down terminal for Linux and Unix",
+            "homepage": null,
             "id": 3778418,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-10T14:55:14Z",
+            "open_issues": 157,
             "owner": "lanoxx",
             "repo": "tilda",
-            "stars": 1340
+            "stars": 1340,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -922,12 +1524,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔐 A CLI tool to extract server certificates",
+            "homepage": null,
             "id": 352319628,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:17:16Z",
+            "open_issues": 0,
             "owner": "Hakky54",
             "repo": "certificate-ripper",
-            "stars": 923
+            "stars": 923,
+            "topics": [
+              "certificate",
+              "graal-native",
+              "graalvm",
+              "graalvm-native-image",
+              "homebrew",
+              "homebrew-tap",
+              "java",
+              "macos",
+              "ssl",
+              "testing",
+              "testing-tools",
+              "tls",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -938,12 +1559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal emulator by KDE",
+            "homepage": "https://invent.kde.org/utilities/konsole",
             "id": 42721851,
             "language": "C++",
-            "last_commit": "2026-08-28T19:04:24Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:56:36Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "konsole",
-            "stars": 694
+            "stars": 694,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -960,12 +1586,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.",
+            "homepage": "https://www.opentypeless.com",
             "id": 1167485752,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:42:04Z",
+            "open_issues": 38,
             "owner": "tover0314-w",
             "repo": "opentypeless",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "ai",
+              "ai-tools",
+              "byok",
+              "cross-platform",
+              "desktop-app",
+              "dictation",
+              "linux",
+              "llm",
+              "macos",
+              "open-source",
+              "productivity",
+              "rust",
+              "speech-to-text",
+              "stt",
+              "tauri",
+              "typescript",
+              "voice-input",
+              "voice-typing",
+              "whisper",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -976,12 +1628,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform desktop automation app with macro recording, playback, scheduling, text expansion, CLI tools, and Wayland/X11-aware Linux support.",
+            "homepage": "https://alper-han.github.io/CrossMacro/",
             "id": 1106983118,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T14:22:55Z",
+            "open_issues": 3,
             "owner": "alper-han",
             "repo": "CrossMacro",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "autoclicker",
+              "automation",
+              "avalonia",
+              "cli",
+              "cross-platform",
+              "desktop-automation",
+              "dotnet",
+              "keyboard",
+              "linux",
+              "macos",
+              "macro",
+              "macro-editor",
+              "macro-recorder",
+              "mouse",
+              "scheduling",
+              "shortcuts",
+              "text-expansion",
+              "wayland",
+              "windows",
+              "x11"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -998,12 +1676,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to use git. On any platform. Anywhere.",
+            "homepage": null,
             "id": 10154151,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T05:38:12Z",
+            "open_issues": 233,
             "owner": "FredrikNoren",
             "repo": "ungit",
-            "stars": 10600
+            "stars": 10600,
+            "topics": [
+              "git",
+              "javascript",
+              "nodejs",
+              "ui",
+              "ungit"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1014,12 +1703,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).",
+            "homepage": "https://gitextensions.github.io/",
             "id": 85953,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:28Z",
+            "open_issues": 594,
             "owner": "gitextensions",
             "repo": "gitextensions",
-            "stars": 8540
+            "stars": 8540,
+            "topics": [
+              "git",
+              "git-client",
+              "git-gui",
+              "gitextensions",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1030,12 +1730,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "git-cola: The highly caffeinated Git GUI",
+            "homepage": "https://git-cola.gitlab.io/",
             "id": 23916,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T08:51:43Z",
+            "open_issues": 5,
             "owner": "git-cola",
             "repo": "git-cola",
-            "stars": 2568
+            "stars": 2568,
+            "topics": [
+              "cross-platform-gui",
+              "debian",
+              "diff",
+              "editor",
+              "git",
+              "git-addons",
+              "git-cola",
+              "gui",
+              "linux",
+              "osx",
+              "pyqt5",
+              "pyqt6",
+              "python",
+              "qt5",
+              "qt6",
+              "qtpy",
+              "rebase",
+              "vcs",
+              "visualization",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1046,12 +1772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand your Git history!",
+            "homepage": "https://gitahead.com",
             "id": 159882575,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-14T16:31:24Z",
+            "open_issues": 293,
             "owner": "gitahead",
             "repo": "gitahead",
-            "stars": 1947
+            "stars": 1947,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1062,12 +1793,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.",
+            "homepage": "http://fabricesalvaire.github.io/CodeReview",
             "id": 18414836,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-06T13:47:51Z",
+            "open_issues": 27,
             "owner": "FabriceSalvaire",
             "repo": "CodeReview",
-            "stars": 421
+            "stars": 421,
+            "topics": [
+              "diff-viewer",
+              "git",
+              "git-gui",
+              "pyqt5",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -1084,12 +1826,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+            "homepage": "https://obsproject.com",
             "id": 13233158,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:05:18Z",
+            "open_issues": 1168,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75558
+            "stars": 75572,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "directshow",
+              "facebook-live",
+              "ffmpeg",
+              "game-capture",
+              "live-streaming",
+              "screen-capture",
+              "twitch-tv",
+              "video-recording",
+              "youtube-live"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1100,12 +1859,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎥 Command line media player",
+            "homepage": "https://mpv.io",
             "id": 6201092,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
+            "open_issues": 1143,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36721
+            "stars": 36724,
+            "topics": [
+              "audio",
+              "c",
+              "ffmpeg",
+              "mplayer",
+              "mpv",
+              "multimedia",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1116,12 +1888,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+            "homepage": "https://kodi.tv/",
             "id": 1217614,
             "language": "C++",
-            "last_commit": "2026-08-28T23:16:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:26:29Z",
+            "open_issues": 466,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21147
+            "stars": 21148,
+            "topics": [
+              "android",
+              "c-plus-plus",
+              "entertainment-hub",
+              "hacktoberfest",
+              "home-theater",
+              "ios",
+              "kodi",
+              "linux",
+              "macos",
+              "media-center",
+              "media-player",
+              "multimedia",
+              "python",
+              "windows-desktop",
+              "windows-uwp",
+              "xbmc",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1132,12 +1927,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc",
+            "homepage": "http://www.videolan.org/vlc",
             "id": 3299208,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:05:04Z",
+            "open_issues": 2,
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19466
+            "stars": 19466,
+            "topics": [
+              "c",
+              "framework",
+              "gplv2",
+              "lgpl",
+              "multimedia",
+              "open-source",
+              "vlc"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1148,12 +1956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleScreenRecorder, a screen recorder for Linux",
+            "homepage": "http://www.maartenbaert.be/simplescreenrecorder/",
             "id": 7228861,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T23:15:28Z",
+            "open_issues": 526,
             "owner": "MaartenBaert",
             "repo": "ssr",
-            "stars": 2881
+            "stars": 2881,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1164,12 +1977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Miro is a popular, free, and open internet TV application. It brings video channels from thousands of sources and has more free HD than any other platform.",
+            "homepage": "http://www.getmiro.com/",
             "id": 2302470,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-03T14:11:23Z",
+            "open_issues": 14,
             "owner": "pculture",
             "repo": "miro",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -1186,12 +2004,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vagrant is a tool for building and distributing development environments.",
+            "homepage": "https://www.vagrantup.com",
             "id": 481872,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T08:01:11Z",
+            "open_issues": 753,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27204
+            "stars": 27204,
+            "topics": [
+              "automation",
+              "ruby",
+              "vagrant",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1202,12 +2030,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.",
+            "homepage": "http://www.qemu.org",
             "id": 5383731,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:41:20Z",
+            "open_issues": 0,
             "owner": "qemu",
             "repo": "qemu",
-            "stars": 13639
+            "stars": 13640,
+            "topics": [
+              "emulation",
+              "qemu",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1218,12 +2055,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Machine management for a container-centric world",
+            "homepage": "https://docs.docker.com/machine/",
             "id": 27494663,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-13T19:27:42Z",
+            "open_issues": 1066,
             "owner": "docker-archive-public",
             "repo": "docker.machine",
-            "stars": 6609
+            "stars": 6609,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         },
@@ -1234,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop tool for managing virtual machines via libvirt",
+            "homepage": "https://virt-manager.org",
             "id": 36043078,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-15T09:29:59Z",
+            "open_issues": 163,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3233
+            "stars": 3233,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
         }
@@ -1248,15 +2095,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:04:51.191Z",
+    "last_updated": "2026-08-29T04:49:06.640Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
+      "homepage": null,
       "id": 163642755,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-05T09:29:59Z",
+      "open_issues": 2,
       "owner": "cuongtk8",
       "repo": "awesome-linux-apps",
-      "stars": 250
+      "stars": 250,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "linux",
+        "linux-apps",
+        "productivity"
+      ]
     },
     "original_repository_sha": "f952acafeb480d3895b507c0c1aec11868ad1942",
     "enhanced_repository": "enhansome/enhansome-linux-apps",
