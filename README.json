@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T10:10:07Z",
+            "last_commit": "2026-09-14T15:27:03Z",
             "open_issues": 1791,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18413,
+            "stars": 18424,
             "topics": [
               "audio",
               "cross-platform",
@@ -43,10 +43,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T22:59:21Z",
-            "open_issues": 1454,
+            "open_issues": 1455,
             "owner": "LMMS",
             "repo": "lmms",
-            "stars": 10358,
+            "stars": 10362,
             "topics": [
               "daw",
               "hacktoberfest",
@@ -69,11 +69,11 @@
             "id": 8757552,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T11:53:16Z",
+            "last_commit": "2026-09-14T19:21:22Z",
             "open_issues": 49,
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5280,
+            "stars": 5284,
             "topics": [
               "audio",
               "c-plus-plus",
@@ -108,7 +108,7 @@
             "open_issues": 596,
             "owner": "restic",
             "repo": "restic",
-            "stars": 36031,
+            "stars": 36045,
             "topics": [
               "backup",
               "dedupe",
@@ -185,7 +185,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-09T09:05:43Z",
-            "open_issues": 140,
+            "open_issues": 143,
             "owner": "bit-team",
             "repo": "backintime",
             "stars": 2664,
@@ -254,6 +254,84 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Chromium",
+          "description": "Open source, safer, faster and more stable way for all Internet users. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official GitHub mirror of the Chromium source",
+            "homepage": "https://chromium.googlesource.com/chromium/src/",
+            "id": 120360765,
+            "language": null,
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-09-14T19:54:50Z",
+            "open_issues": 28,
+            "owner": "chromium",
+            "repo": "chromium",
+            "stars": 24780,
+            "topics": [
+              "browser",
+              "chromium"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
+        }
+      ],
+      "title": "Browser"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Posnic",
+          "description": "Offline-first POS and billing software for retail shops and restaurants, with AGPL source and AppImage and Debian packages. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free offline-first open source POS and billing software for retail and restaurants. AGPL-3.0-only source; packages include separately licensed components.",
+            "homepage": "https://www.posnic.com/",
+            "id": 1326885554,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-14T19:46:07Z",
+            "open_issues": 401,
+            "owner": "Posnic",
+            "repo": "POS",
+            "stars": 4,
+            "topics": [
+              "billing-software",
+              "electron",
+              "inventory-management",
+              "linux",
+              "macos",
+              "offline-first",
+              "offline-pos",
+              "online-offline-pos",
+              "open-source",
+              "open-source-pos",
+              "point-of-sale",
+              "point-of-sale-system",
+              "pos",
+              "pos-software",
+              "pos-system",
+              "restaurant",
+              "retail",
+              "retail-pos",
+              "self-hosted",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
+        }
+      ],
+      "title": "Business"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Visual Studio Code",
           "description": "Free, open source, powerful and runs everywhere. 👏",
           "children": [],
@@ -264,11 +342,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T18:17:56Z",
-            "open_issues": 21026,
+            "last_commit": "2026-09-14T19:22:50Z",
+            "open_issues": 21096,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 192460,
+            "stars": 192546,
             "topics": [
               "editor",
               "electron",
@@ -291,11 +369,11 @@
             "id": 16408992,
             "language": "Vim Script",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T14:59:55Z",
-            "open_issues": 1906,
+            "last_commit": "2026-09-14T12:26:53Z",
+            "open_issues": 1907,
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 102305,
+            "stars": 102331,
             "topics": [
               "api",
               "c",
@@ -324,7 +402,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60742,
+            "stars": 60739,
             "topics": [
               "atom",
               "editor",
@@ -349,11 +427,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-13T16:16:16Z",
-            "open_issues": 1622,
+            "last_commit": "2026-09-14T19:01:17Z",
+            "open_issues": 1613,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40890,
+            "stars": 40889,
             "topics": [
               "c",
               "cross-platform",
@@ -379,7 +457,7 @@
             "open_issues": 2774,
             "owner": "adobe",
             "repo": "brackets",
-            "stars": 32997,
+            "stars": 32996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -497,11 +575,11 @@
             "id": 44662669,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T17:08:58Z",
-            "open_issues": 3339,
+            "last_commit": "2026-09-14T19:33:27Z",
+            "open_issues": 3337,
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 51739,
+            "stars": 51750,
             "topics": [
               "ai",
               "database",
@@ -538,10 +616,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T22:57:43Z",
-            "open_issues": 8487,
+            "open_issues": 8436,
             "owner": "cockroachdb",
             "repo": "cockroach",
-            "stars": 32455,
+            "stars": 32457,
             "topics": [
               "cockroachdb",
               "database",
@@ -565,11 +643,11 @@
             "id": 19416551,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:13:25Z",
+            "last_commit": "2026-09-14T00:33:51Z",
             "open_issues": 838,
             "owner": "sqlitebrowser",
             "repo": "sqlitebrowser",
-            "stars": 24592,
+            "stars": 24596,
             "topics": [
               "c-plus-plus",
               "cross-platform",
@@ -581,6 +659,46 @@
             ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dbx",
+          "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+            "homepage": "https://dbxio.com",
+            "id": 1224172037,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-14T18:44:44Z",
+            "open_issues": 1364,
+            "owner": "t8y2",
+            "repo": "dbx",
+            "stars": 19458,
+            "topics": [
+              "ai",
+              "cli",
+              "clickhouse",
+              "database",
+              "database-client",
+              "database-management",
+              "docker",
+              "gui",
+              "mcp",
+              "mongodb",
+              "mysql",
+              "postgresql",
+              "redis",
+              "rust",
+              "sql-server",
+              "sqlite",
+              "tauri",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
         },
         {
           "node_type": "item",
@@ -652,9 +770,134 @@
             ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DBTool",
+          "description": "Free desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle and SQL Server, with a visual query builder and ER diagrams. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DBTool - a full-featured open-source desktop database client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle and SQL Server. Electron + React + TypeScript.",
+            "homepage": "https://codemake.co/software",
+            "id": 1323345590,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-19T20:17:09Z",
+            "open_issues": 0,
+            "owner": "achi777",
+            "repo": "db-tool",
+            "stars": 9,
+            "topics": [
+              "cross-platform",
+              "database",
+              "database-client",
+              "database-gui",
+              "database-management",
+              "dbeaver-alternative",
+              "desktop-app",
+              "electron",
+              "mariadb",
+              "mysql",
+              "navicat-alternative",
+              "oracle",
+              "postgresql",
+              "react",
+              "sql",
+              "sql-client",
+              "sql-editor",
+              "sqlite",
+              "sqlserver",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
         }
       ],
       "title": "Databases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GameHub",
+          "description": "GameHub provides games from multiple game sources and services (Steam, GOG, Humble Bundle, Humble Trove, etc). 👏",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "All your games in one place",
+            "homepage": "https://tkashkin.github.io/projects/gamehub",
+            "id": 135071605,
+            "language": "Vala",
+            "license": "GPL-3.0",
+            "last_commit": "2025-04-13T15:01:45Z",
+            "open_issues": 271,
+            "owner": "tkashkin",
+            "repo": "GameHub",
+            "stars": 2836,
+            "topics": [
+              "elementary",
+              "elementary-apps",
+              "elementary-community",
+              "game-launcher",
+              "game-library",
+              "gog",
+              "gog-games",
+              "gtk",
+              "gtk3",
+              "humble-bundle",
+              "humblebundle",
+              "steam",
+              "steam-games",
+              "steam-library",
+              "vala"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
+        }
+      ],
+      "title": "Game"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UpSit",
+          "description": "Tracks sitting posture from the webcam using an on-device ML model and nudges you when you slouch; nothing is ever uploaded. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🧍 Privacy-first desktop app that improves your posture via on-device webcam tracking",
+            "homepage": "https://www.upsit.online",
+            "id": 1285864980,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T07:46:39Z",
+            "open_issues": 1,
+            "owner": "aykhanstoic",
+            "repo": "superposture",
+            "stars": 4,
+            "topics": [
+              "computer-vision",
+              "desktop-app",
+              "health",
+              "mediapipe",
+              "on-device-ai",
+              "posture",
+              "posture-detection",
+              "privacy",
+              "rust",
+              "tauri",
+              "typescript",
+              "webcam"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
+        }
+      ],
+      "title": "Health"
     },
     {
       "description": null,
@@ -671,11 +914,11 @@
             "id": 43975673,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T03:20:31Z",
+            "last_commit": "2026-09-14T03:24:30Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "krita",
-            "stars": 10361,
+            "stars": 10365,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -692,11 +935,11 @@
             "id": 4537508,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T12:48:59Z",
+            "last_commit": "2026-09-14T18:13:57Z",
             "open_issues": 0,
             "owner": "GNOME",
             "repo": "gimp",
-            "stars": 6412,
+            "stars": 6417,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -713,11 +956,11 @@
             "id": 2358713,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-13T14:37:06Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-14T03:17:00Z",
+            "open_issues": 229,
             "owner": "PintaProject",
             "repo": "Pinta",
-            "stars": 4034,
+            "stars": 4036,
             "topics": [
               "csharp",
               "dotnet",
@@ -747,7 +990,7 @@
             "open_issues": 1,
             "owner": "inkscape",
             "repo": "inkscape",
-            "stars": 3897,
+            "stars": 3908,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -764,11 +1007,11 @@
             "id": 20728281,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T15:23:17Z",
+            "last_commit": "2026-09-13T21:36:20Z",
             "open_issues": 227,
             "owner": "mypaint",
             "repo": "mypaint",
-            "stars": 2975,
+            "stars": 2977,
             "topics": [
               "art",
               "brushes",
@@ -853,7 +1096,7 @@
             "open_issues": 76,
             "owner": "retext-project",
             "repo": "retext",
-            "stars": 2054,
+            "stars": 2055,
             "topics": [
               "editor",
               "markdown",
@@ -908,7 +1151,7 @@
             "open_issues": 224,
             "owner": "rhiokim",
             "repo": "haroopad",
-            "stars": 1670,
+            "stars": 1671,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -935,7 +1178,7 @@
             "open_issues": 219,
             "owner": "cmus",
             "repo": "cmus",
-            "stars": 6239,
+            "stars": 6240,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -956,7 +1199,7 @@
             "open_issues": 2440,
             "owner": "clementine-player",
             "repo": "Clementine",
-            "stars": 4250,
+            "stars": 4251,
             "topics": [
               "c-plus-plus",
               "linux",
@@ -1043,7 +1286,7 @@
             "id": 42728662,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T15:24:16Z",
+            "last_commit": "2026-09-14T01:44:38Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "amarok",
@@ -1074,7 +1317,7 @@
             "open_issues": 528,
             "owner": "BoostIO",
             "repo": "BoostNote-Legacy",
-            "stars": 16889,
+            "stars": 16888,
             "topics": [
               "electron",
               "linux",
@@ -1156,8 +1399,8 @@
             "id": 41199577,
             "language": "TypeScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T08:46:07Z",
-            "open_issues": 281,
+            "last_commit": "2026-09-14T12:57:03Z",
+            "open_issues": 282,
             "owner": "Automattic",
             "repo": "simplenote-electron",
             "stars": 5266,
@@ -1251,11 +1494,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-13T10:31:45Z",
+            "last_commit": "2026-09-14T03:16:23Z",
             "open_issues": 328,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82964,
+            "stars": 82982,
             "topics": [
               "bash",
               "cli",
@@ -1287,7 +1530,7 @@
             "open_issues": 341,
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65707,
+            "stars": 65720,
             "topics": [
               "bsd",
               "gpu",
@@ -1315,11 +1558,11 @@
             "id": 36836475,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-09-11T17:00:21Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-14T13:17:45Z",
+            "open_issues": 37,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 49224,
+            "stars": 49251,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -1340,7 +1583,7 @@
             "open_issues": 1045,
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44730,
+            "stars": 44729,
             "topics": [
               "css",
               "html",
@@ -1367,11 +1610,11 @@
             "id": 71056775,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T04:38:36Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-14T16:36:42Z",
+            "open_issues": 19,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34888,
+            "stars": 34892,
             "topics": [
               "c",
               "go",
@@ -1482,7 +1725,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-07T14:38:56Z",
-            "open_issues": 167,
+            "open_issues": 169,
             "owner": "gnome-terminator",
             "repo": "terminator",
             "stars": 2655,
@@ -1529,11 +1772,11 @@
             "id": 352319628,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T21:43:41Z",
+            "last_commit": "2026-09-14T07:53:13Z",
             "open_issues": 0,
             "owner": "Hakky54",
             "repo": "certificate-ripper",
-            "stars": 925,
+            "stars": 926,
             "topics": [
               "certificate",
               "graal-native",
@@ -1564,11 +1807,11 @@
             "id": 42721851,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T10:25:51Z",
+            "last_commit": "2026-09-13T22:54:20Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konsole",
-            "stars": 701,
+            "stars": 702,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -1592,10 +1835,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-09T02:54:12Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "tover0314-w",
             "repo": "opentypeless",
-            "stars": 525,
+            "stars": 530,
             "topics": [
               "ai",
               "ai-tools",
@@ -1662,6 +1905,40 @@
             ]
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SessionSifu",
+          "description": "Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source desktop session restoration and private local Recall timeline for GNOME, KDE Plasma, Windows and macOS.",
+            "homepage": "https://github.com/tpluharik/SessionSifu/releases/latest",
+            "id": 1341482422,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-12T07:18:51Z",
+            "open_issues": 2,
+            "owner": "tpluharik",
+            "repo": "SessionSifu",
+            "stars": 2,
+            "topics": [
+              "gnome-shell-extension",
+              "kde-plasma",
+              "local-first",
+              "macos",
+              "ocr",
+              "open-source",
+              "privacy",
+              "productivity",
+              "session-manager",
+              "session-restore",
+              "wayland",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-09-14T19:55:44.543Z"
         }
       ],
       "title": "Utilities"
@@ -1685,7 +1962,7 @@
             "open_issues": 238,
             "owner": "FredrikNoren",
             "repo": "ungit",
-            "stars": 10601,
+            "stars": 10602,
             "topics": [
               "git",
               "javascript",
@@ -1708,11 +1985,11 @@
             "id": 85953,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T13:39:11Z",
-            "open_issues": 602,
+            "last_commit": "2026-09-14T10:46:04Z",
+            "open_issues": 604,
             "owner": "gitextensions",
             "repo": "gitextensions",
-            "stars": 8556,
+            "stars": 8557,
             "topics": [
               "git",
               "git-client",
@@ -1739,7 +2016,7 @@
             "open_issues": 7,
             "owner": "git-cola",
             "repo": "git-cola",
-            "stars": 2573,
+            "stars": 2574,
             "topics": [
               "cross-platform-gui",
               "debian",
@@ -1832,10 +2109,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-11T18:38:58Z",
-            "open_issues": 1148,
+            "open_issues": 1141,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 76162,
+            "stars": 76204,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1864,11 +2141,11 @@
             "id": 6201092,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T13:37:23Z",
-            "open_issues": 1150,
+            "last_commit": "2026-09-14T04:28:01Z",
+            "open_issues": 1153,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36966,
+            "stars": 36977,
             "topics": [
               "audio",
               "c",
@@ -1893,11 +2170,11 @@
             "id": 1217614,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T16:54:36Z",
-            "open_issues": 458,
+            "last_commit": "2026-09-14T14:28:18Z",
+            "open_issues": 457,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21218,
+            "stars": 21220,
             "topics": [
               "android",
               "c-plus-plus",
@@ -1932,11 +2209,11 @@
             "id": 3299208,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-13T17:28:27Z",
+            "last_commit": "2026-09-14T19:26:48Z",
             "open_issues": 2,
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19625,
+            "stars": 19638,
             "topics": [
               "c",
               "framework",
@@ -1965,7 +2242,7 @@
             "open_issues": 527,
             "owner": "MaartenBaert",
             "repo": "ssr",
-            "stars": 2890,
+            "stars": 2891,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -2013,7 +2290,7 @@
             "open_issues": 752,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27208,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -2035,11 +2312,11 @@
             "id": 5383731,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T23:42:36Z",
+            "last_commit": "2026-09-14T03:08:40Z",
             "open_issues": 0,
             "owner": "qemu",
             "repo": "qemu",
-            "stars": 13715,
+            "stars": 13722,
             "topics": [
               "emulation",
               "qemu",
@@ -2085,7 +2362,7 @@
             "open_issues": 157,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3248,
+            "stars": 3250,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.191Z"
@@ -2095,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:19:13.536Z",
+    "last_updated": "2026-09-14T19:55:44.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A list of awesome applications for 🐧 Linux distributions.",
@@ -2103,8 +2380,8 @@
       "id": 163642755,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-05T09:29:59Z",
-      "open_issues": 7,
+      "last_commit": "2026-09-14T15:57:43Z",
+      "open_issues": 0,
       "owner": "cuongtk8",
       "repo": "awesome-linux-apps",
       "stars": 255,
@@ -2117,7 +2394,7 @@
         "productivity"
       ]
     },
-    "original_repository_sha": "f952acafeb480d3895b507c0c1aec11868ad1942",
+    "original_repository_sha": "82cbdc87a613c2810e1e62aefa6803046cae9424",
     "enhanced_repository": "enhansome/enhansome-linux-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Linux Apps with stars"
